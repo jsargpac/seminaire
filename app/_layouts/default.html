@@ -109,20 +109,20 @@
                 centerMap = new google.maps.LatLng({{ site.data.[site.lang].logistics.find-way.mapCenterCoordinates | replace:' ',''  }}),
                 mobileCenterMap = new google.maps.LatLng({{ site.data.[site.lang].logistics.find-way.mobileCenterCoordinates | replace:' ',''  }}),
                 icon = '{{ site.baseurl_root | prepend: site.url }}/img/other/map-marker.svg';
-        {% elsif page.permalink == '/hackathon/' %}
-            if ($(window).width() > 767) {
-                var googleMaps = 'hackathon',
-                    eventPlace = new google.maps.LatLng({{ site.data.[site.lang].hackathon.location.placeCoordinates | replace:' ',''  }}),
-                    centerMap = new google.maps.LatLng({{ site.data.[site.lang].hackathon.location.centerCoordinates | replace:' ',''  }}),
-                    mobileCenterMap = new google.maps.LatLng({{ site.data.[site.lang].hackathon.location.mobileCenterCoordinates | replace:' ',''  }}),
-                    icon = '{{ site.baseurl_root | prepend: site.url }}/img/other/map-marker.svg';
-            } else {
-               var staticGoogleMaps = true,
-                eventPlaceCoordinates = '{{ site.data.[site.lang].hackathon.location.placeCoordinates | replace:' ','' }}',
-                centerMapCoordinates = '{{ site.data.[site.lang].hackathon.location.centerCoordinates | replace:' ','' }}',
-                mobileCenterMapCoordinates = '{{ site.data.[site.lang].hackathon.location.mobileCenterCoordinates | replace:' ','' }}',
-                icon = '{{ site.baseurl_root | prepend: site.url }}/img/other/map-marker.png';
-            }
+        // {% elsif page.permalink == '/hackathon/' %}
+        //     if ($(window).width() > 767) {
+        //         var googleMaps = 'hackathon',
+        //             eventPlace = new google.maps.LatLng({{ site.data.[site.lang].hackathon.location.placeCoordinates | replace:' ',''  }}),
+        //             centerMap = new google.maps.LatLng({{ site.data.[site.lang].hackathon.location.centerCoordinates | replace:' ',''  }}),
+        //             mobileCenterMap = new google.maps.LatLng({{ site.data.[site.lang].hackathon.location.mobileCenterCoordinates | replace:' ',''  }}),
+        //             icon = '{{ site.baseurl_root | prepend: site.url }}/img/other/map-marker.svg';
+        //     } else {
+        //        var staticGoogleMaps = true,
+        //         eventPlaceCoordinates = '{{ site.data.[site.lang].hackathon.location.placeCoordinates | replace:' ','' }}',
+        //         centerMapCoordinates = '{{ site.data.[site.lang].hackathon.location.centerCoordinates | replace:' ','' }}',
+        //         mobileCenterMapCoordinates = '{{ site.data.[site.lang].hackathon.location.mobileCenterCoordinates | replace:' ','' }}',
+        //         icon = '{{ site.baseurl_root | prepend: site.url }}/img/other/map-marker.png';
+        //     }
             
         {% endif %} 
     </script>

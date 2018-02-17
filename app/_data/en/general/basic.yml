@@ -1,16 +1,16 @@
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Séminaire Développeurs #2"
+email: "julien.capgras@total.com"
+description: "Deuxième édition du séminaire des développeurs de Total"
 enablePreloader: false
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
-themeColor: "#03a9f4"
+# metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+# twitterAccount: "@DevFest"
+# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+# socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+# socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+# themeColor: "#03a9f4"
 
 # Organizer Info
 organizerName: "GDG Lviv"
@@ -22,7 +22,7 @@ organizerLink: "http://lviv.gdg.org.ua/"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
-c4pButton: "Become a speaker"
+c4pButton: "Participer"
 
 # Varibles
 googleAnalyticsTrackingId: "UA-43643469-7"
@@ -32,4 +32,3 @@ disqusShortName: "devfestua"
 # i18n
 languages:
   en: English
-  uk: Українська
