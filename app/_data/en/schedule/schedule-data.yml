@@ -1,6 +1,6 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2018-10-22"
+  dateReadable: "22 octobre"
   tracks: 
     - {title: "Programme", color: "#90be4e"}
   timeslots:
@@ -11,16 +11,16 @@
     }
     - {
         startTime: "09:15",
-        endTime: "09:45",
+        endTime: "09:30",
         sessionIds: [001]
     }
     - {
-        startTime: "09:45",
-        endTime: "10:30",
+        startTime: "09:30",
+        endTime: "10:00",
         sessionIds: [002]
     }
     - {
-        startTime: "10:30",
+        startTime: "10:00",
         endTime: "11:00",
         sessionIds: [302]
     }
@@ -40,28 +40,23 @@
     	sessionIds: [401]
     }
 - 
-  date: "2014-10-25"
-  dateReadable: "October 25"
+  date: "2018-10-23"
+  dateReadable: "23 octobre"
   tracks: 
     - {title: "Programme", color: "#90be4e"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [001]
+        startTime: "08:30",
+        endTime: "09:15",
+        sessionIds: [301]
     }
     - {
-    	startTime: "11:00",
+    	startTime: "09:15",
     	endTime: "11:45",
-    	sessionIds: [001]
+    	sessionIds: [101]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [001]
-    }
-    - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [001]
+        startTime: "11:45",
+        endTime: "12:00",
+        sessionIds: [002]
     }

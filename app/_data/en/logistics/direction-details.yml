@@ -1,5 +1,16 @@
+
+
 image: "direction-details.jpg"
 title: "Get around Lviv"
+description: "Participation
+La définition de « développeur » apte à être membre de cette communauté est volontairement élargie à « tout collaborateur ayant des compétences techniques participant à la réalisation d’un développement informatique ». Cela inclut entre autres : développeurs, devops, data scientists, …
+
+Les frais à la charge des participants sont les suivants :
+Déplacement
+Hôtel
+Repas du soir
+
+La logistique sur place ainsi que le repas du midi est pris en charge par la DSI Holding."
 cards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}

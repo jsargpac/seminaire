@@ -20,16 +20,46 @@
   title: "Ouverture"
   description: "description"
   subtype: intervention
+  speakers:
+-  
+  id: 002
+  title: "Conclusion"
+  description: "Mot de la fin"
+  subtype: intervention
+  speakers:
+-
+  id: 003
+  title: "Intervention externe"
+  description: "Un invité mystère interviendra..."
+  subtype: intervention
   speakers: [3]
 -
-  id: 002
-  title: "Mot du sponsor"
-  description: "description"
+  id: 004
+  title: 
+  description: 
   subtype: intervention
-  speakers: [4]
+  speakers: [3]
+-
+  id: 005
+  title: 
+  description: 
+  subtype: intervention
+  speakers: [3]
+-
+  id: 006
+  title: 
+  description: 
+  subtype: intervention
+  speakers: [3]
+-
+  id: 007
+  title: 
+  description: 
+  subtype: intervention
+  speakers: [3]
 -
   id: 101
   title: "Atelier développeurs"
-  description: "description"
+  description: "Format relativement libre autour d'échanges, ateliers, workshops. Une liste de thèmes sera proposée mais vous pouvez venir avec vos suggestions !"
   subtype: workshop
-  speakers: [3]
+  speakers:

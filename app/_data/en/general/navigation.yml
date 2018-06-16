@@ -1,6 +1,6 @@
 links:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Présentation"}
+ - {permalink: "/presentation/", text: "Présentation"}
  - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/speakers/", text: "Intervenants"}
  - {permalink: "/team/", text: "Team"}
