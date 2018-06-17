@@ -1,5 +1,5 @@
 title: "A propos du séminaire"
 blocks:
- - {title: "Conferences", image: "conference.jpg", text: "De nombreux intervenants de tout le Groupe" }
- - {title: "Ateliers", image: "workshop.jpg", text: "Des ateliers afin de permettre aux développeurs de faire connaissance et de découvrir d'autres technologies." }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conférences", image: "conference.jpg", text: "De nombreux intervenants de tout le Groupe" }
+ - {title: "Ateliers", image: "hackathon.jpg", text: "Des ateliers afin de permettre aux développeurs de faire connaissance et de découvrir d'autres technologies." }
+ - {title: "Echanges", image: "workshop.jpg", text: "Echangez avec d'autres développeurs du Groupe !" }

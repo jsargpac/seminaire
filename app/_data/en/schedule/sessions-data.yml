@@ -18,7 +18,7 @@
 -
   id: 001
   title: "Ouverture"
-  description: "description"
+  description: "Début du séminaire"
   subtype: intervention
   speakers:
 -  
@@ -35,31 +35,43 @@
   speakers: [3]
 -
   id: 004
-  title: 
-  description: 
+  title: "Mot du sponsor"
+  description: "Frédéric Gimenez, CIO et sponsor de l’initiative nous présentera la vision du développement informatique chez Total dans les années à venir suivi d’une séance de questions-réponses."
   subtype: intervention
-  speakers: [3]
+  speakers: [4]
 -
   id: 005
-  title: 
-  description: 
+  title: "TGITS, comment travailler avec les développeurs"
+  description: "Les développeurs du Groupe sont régulièrement amenés à intéragir avec TGITS. Petit panorama des divers projets devops en cours : Azure V3, API pour déployer des instances, etc."
   subtype: intervention
-  speakers: [3]
+  speakers: [6]
 -
   id: 006
-  title: 
-  description: 
+  title: "Fioul Market"
+  description: "Stéphane Seguin nous parlera de Fioul Market, première filiale 100% digitale du Groupe avec notamment le site www.fioulmarket.fr."
   subtype: intervention
-  speakers: [3]
+  speakers: [5]
 -
   id: 007
-  title: 
+  title: "Les développeurs et leur carrière..."
   description: 
   subtype: intervention
-  speakers: [3]
+  speakers: [7]
+-
+  id: 010
+  title: "Intervention à définir"
+  description: ""
+  subtype: intervention
+  speakers:
 -
   id: 101
   title: "Atelier développeurs"
   description: "Format relativement libre autour d'échanges, ateliers, workshops. Une liste de thèmes sera proposée mais vous pouvez venir avec vos suggestions !"
+  subtype: workshop
+  speakers:
+-
+  id: 102
+  title: "Activité à définir"
+  description: ""
   subtype: workshop
   speakers:

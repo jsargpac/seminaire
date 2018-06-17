@@ -3,9 +3,8 @@ links:
  - {permalink: "/presentation/", text: "Présentation"}
  - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/speakers/", text: "Intervenants"}
- - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistique"}
 bottomLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Participer"}
+ - {link: "http://goo.gl/forms/RTRgIf7GCawk06ss1", text: "Participer"}
 rightButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Participer"}
+ - {link: "http://goo.gl/forms/RTRgIf7GCawk06ss1", text: "Participer"}

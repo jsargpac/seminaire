@@ -5,62 +5,41 @@
   company: 
   title: 
   bio: 
-  thumbnailUrl: DawidOstrowski.jpg
+  thumbnailUrl: invite_mystere.jpg
   rockstar: true
-  social: 
-    - {name: , link: }
 - 
   id: 4
   name: "Frédéric"
   surname: "Gimenez"
   company: "Total"
   title: "CIO"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  bio: ""
+  thumbnailUrl: FredericGimenez.jpeg
   rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 5
-  name: "Michel"
-  surname: "Lutz"
-  company: "Total"
-  title: "Group Data Officer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 6
-  name: "Michael"
-  surname: "Offredi"
-  company: "Total"
-  title: "Innovation Officer, Booster"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 7
   name: "Stéphane"
   surname: "Seguin"
   company: "Total"
   title: "CEO de Fioul Market"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  bio: ""
+  thumbnailUrl: StephaneSeguin.jpg
   rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
-  id: 8
-  name: "Julien"
-  surname: "Grangé"
+  id: 6
+  name: "TGITS"
+  surname: ""
   company: "Total"
-  title: "Mister Asphalt"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  title: "Intervenant TGITS"
+  bio: ""
+  thumbnailUrl: speaker.png
   rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 7
+  name: "GC"
+  surname: ""
+  company: "Total"
+  title: "Intervenant GC Groupe"
+  bio: ""
+  thumbnailUrl: speaker.png
+  rockstar: false

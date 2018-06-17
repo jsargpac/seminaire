@@ -1,6 +1,6 @@
 image: "statistic.jpg"
 blocks:
- - {count: "50", specialCharacter: "+", info: "participants", detail: "de tout le Groupe"}
+ - {count: "40", specialCharacter: "+", info: "participants", detail: "de tout le Groupe"}
  - {count: "36", specialCharacter: "+", info: "heures", detail: "d'intéractions"}
- - {count: "8", specialCharacter: "+", info: "intervenants", detail: "de tous les horizons"}
+ - {count: "6", specialCharacter: "+", info: "intervenants", detail: "de tous les horizons"}
  - {count: "12", specialCharacter: "+", info: "entités", detail: "de toutes les branches"}
