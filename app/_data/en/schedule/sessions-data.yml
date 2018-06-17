@@ -75,3 +75,9 @@
   description: ""
   subtype: workshop
   speakers:
+-
+  id: 103
+  title: "Concours Meilleur Développeur de France 2018"
+  description: ""
+  subtype: workshop
+  speakers:
