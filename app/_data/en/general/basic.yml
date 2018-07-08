@@ -12,16 +12,8 @@ enablePreloader: false
 # socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # themeColor: "#03a9f4"
 
-# Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
-
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "http://goo.gl/forms/RTRgIf7GCawk06ss1"
 c4pButton: "Participer"
 
 # i18n
